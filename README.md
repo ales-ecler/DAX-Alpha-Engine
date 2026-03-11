@@ -130,3 +130,4 @@ currently on exchange at University of Cologne (WiSo Faculty).
 
 Motivated by wanting to apply Python skills learned between semesters to something
 concrete – analysing the index I was literally studying in.
+(https://www.linkedin.com/in/ales-ecler) · (https://github.com/ales-ecler)
